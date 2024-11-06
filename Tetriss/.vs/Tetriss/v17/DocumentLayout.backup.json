@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jinto\\Desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0442\u0440\u0438\u0441\\Tetriss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9B469E-EC0F-41B2-8FA4-0E2E4EEF9537}|Tetriss\\Tetriss.csproj|c:\\users\\jinto\\desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0442\u0435\u0442\u0440\u0438\u0441\\tetriss\\tetriss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9B469E-EC0F-41B2-8FA4-0E2E4EEF9537}|Tetriss\\Tetriss.csproj|solutionrelative:tetriss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9B469E-EC0F-41B2-8FA4-0E2E4EEF9537}|Tetriss\\Tetriss.csproj|c:\\users\\jinto\\desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0442\u0435\u0442\u0440\u0438\u0441\\tetriss\\tetriss\\tetrisclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9B469E-EC0F-41B2-8FA4-0E2E4EEF9537}|Tetriss\\Tetriss.csproj|solutionrelative:tetriss\\tetrisclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9B469E-EC0F-41B2-8FA4-0E2E4EEF9537}|Tetriss\\Tetriss.csproj|c:\\users\\jinto\\desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0442\u0435\u0442\u0440\u0438\u0441\\tetriss\\tetriss\\windowrect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9B469E-EC0F-41B2-8FA4-0E2E4EEF9537}|Tetriss\\Tetriss.csproj|solutionrelative:tetriss\\windowrect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9B469E-EC0F-41B2-8FA4-0E2E4EEF9537}|Tetriss\\Tetriss.csproj|c:\\users\\jinto\\desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0442\u0435\u0442\u0440\u0438\u0441\\tetriss\\tetriss\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9B469E-EC0F-41B2-8FA4-0E2E4EEF9537}|Tetriss\\Tetriss.csproj|solutionrelative:tetriss\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9B469E-EC0F-41B2-8FA4-0E2E4EEF9537}|Tetriss\\Tetriss.csproj|c:\\users\\jinto\\desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0442\u0435\u0442\u0440\u0438\u0441\\tetriss\\tetriss\\blockclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9B469E-EC0F-41B2-8FA4-0E2E4EEF9537}|Tetriss\\Tetriss.csproj|solutionrelative:tetriss\\blockclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlockClass.cs",
+              "DocumentMoniker": "C:\\Users\\jinto\\Desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0442\u0440\u0438\u0441\\Tetriss\\Tetriss\\BlockClass.cs",
+              "RelativeDocumentMoniker": "Tetriss\\BlockClass.cs",
+              "ToolTip": "C:\\Users\\jinto\\Desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0442\u0440\u0438\u0441\\Tetriss\\Tetriss\\BlockClass.cs",
+              "RelativeToolTip": "Tetriss\\BlockClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:55:33.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\jinto\\Desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0442\u0440\u0438\u0441\\Tetriss\\Tetriss\\BaseClass.cs",
+              "RelativeDocumentMoniker": "Tetriss\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\jinto\\Desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0442\u0440\u0438\u0441\\Tetriss\\Tetriss\\BaseClass.cs",
+              "RelativeToolTip": "Tetriss\\BaseClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:40:32.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "windowRect.cs",
+              "DocumentMoniker": "C:\\Users\\jinto\\Desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0442\u0440\u0438\u0441\\Tetriss\\Tetriss\\windowRect.cs",
+              "RelativeDocumentMoniker": "Tetriss\\windowRect.cs",
+              "ToolTip": "C:\\Users\\jinto\\Desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0442\u0440\u0438\u0441\\Tetriss\\Tetriss\\windowRect.cs",
+              "RelativeToolTip": "Tetriss\\windowRect.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:43:37.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TetrisClass.cs",
+              "DocumentMoniker": "C:\\Users\\jinto\\Desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0442\u0440\u0438\u0441\\Tetriss\\Tetriss\\TetrisClass.cs",
+              "RelativeDocumentMoniker": "Tetriss\\TetrisClass.cs",
+              "ToolTip": "C:\\Users\\jinto\\Desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0442\u0440\u0438\u0441\\Tetriss\\Tetriss\\TetrisClass.cs",
+              "RelativeToolTip": "Tetriss\\TetrisClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:57:38.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jinto\\Desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0442\u0440\u0438\u0441\\Tetriss\\Tetriss\\Program.cs",
+              "RelativeDocumentMoniker": "Tetriss\\Program.cs",
+              "ToolTip": "C:\\Users\\jinto\\Desktop\\\u0441\u0438\u043D\u0435\u0440\u0433\u0438\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0422\u0435\u0442\u0440\u0438\u0441\\Tetriss\\Tetriss\\Program.cs*",
+              "RelativeToolTip": "Tetriss\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4BAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:07:58.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
